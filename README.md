@@ -22,6 +22,3 @@ The project is beginner-friendly and a good practice for learning **forms, styli
 - **Input feedback**: Red borders for invalid inputs, green for valid inputs  
 - **Responsive form layout**: Centered form with clean styling  
 
-## Demo
-You can view the live form (if GitHub Pages is enabled) at:  
-`https://jothammalumbe.github.io/student-registration-form/` 
